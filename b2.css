@@ -1,0 +1,33 @@
+.mail{
+    border: 1px dotted #655a5a;
+    border-radius: 5px;
+    margin: 100px;
+    padding: 13px;
+    background-color: rgba(223, 14, 160, 0.762);
+
+
+}
+button{
+    border-radius: 8px;
+    background-color: #ffffff;
+    color: #ffffff;
+    font-size: 15px;
+
+    margin: 10px;
+    
+    border: #ffffff;
+    transform: all 0.5s ease;
+}
+button:hover{
+    background-color: #000000;
+    color: #ffffff;
+}
+.a{ 
+    background-color: rgba(223, 14, 160, 0);
+    border-color:  #ffffff;
+    border-radius: 8px dotted;
+
+}
+p{
+    color: #000;
+}
